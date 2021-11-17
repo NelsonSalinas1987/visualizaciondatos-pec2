@@ -19,13 +19,12 @@ Para acceder al recurso visual dar clic [aquí](https://public.flourish.studio/v
 
 ### Gráfico de barras
 
-Para acceder al recurso visual dar clic en el siguiente link
+Para acceder al recurso visual dar clic [aquí](https://public.flourish.studio/visualisation/7854881/)
 
 ![Aquí la descripción de la imagen por si no carga](https://github.com/NelsonSalinas1987/visualizaciondatos-pec2/blob/main/covid.JPG)
 
-
 ### Diagrama de Gantt
 
-Para acceder al recurso visual dar clic en el siguiente link
+Para acceder al recurso visual dar clic [aquí](https://public.flourish.studio/visualisation/7855737/)
 
 ![Aquí la descripción de la imagen por si no carga](https://github.com/NelsonSalinas1987/visualizaciondatos-pec2/blob/main/agua.JPG)
