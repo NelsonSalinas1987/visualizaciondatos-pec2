@@ -1,4 +1,5 @@
-# Estudio de técnicas de visualización de datos
+# Visualización de datos
+## Estudio de técnicas de visualización de datos
 Aplicación de técnicas gráficas para la visualización de datos
 
 Estudiante: Nelson Salinas
