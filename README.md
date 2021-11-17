@@ -15,4 +15,17 @@ Los gráficos asignados son:
 
 Para acceder al recurso visual dar clic en el siguiente link
 
+![Aquí la descripción de la imagen por si no carga](https://github.com/NelsonSalinas1987/visualizaciondatos-pec2/blob/main/migracion.JPG)
+
+### Gráfico de barras
+
+Para acceder al recurso visual dar clic en el siguiente link
+
+![Aquí la descripción de la imagen por si no carga](https://github.com/NelsonSalinas1987/visualizaciondatos-pec2/blob/main/covid.JPG)
+
+
+### Diagrama de Gantt
+
+Para acceder al recurso visual dar clic en el siguiente link
+
 ![Aquí la descripción de la imagen por si no carga](https://github.com/NelsonSalinas1987/visualizaciondatos-pec2/blob/main/agua.JPG)
