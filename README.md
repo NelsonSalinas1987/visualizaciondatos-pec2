@@ -13,7 +13,9 @@ Los gráficos asignados son:
 
 ### Chord Diagram
 
-Para acceder al recurso visual dar clic en el siguiente link
+Para acceder al recurso visual dar clic [here](https://public.flourish.studio/visualisation/7850666/)
+
+Fuente: https://www.iteramos.com/pregunta/7094/enlace-relativo-a-github-en-el-archivo-markdown
 
 ![Aquí la descripción de la imagen por si no carga](https://github.com/NelsonSalinas1987/visualizaciondatos-pec2/blob/main/migracion.JPG)
 
