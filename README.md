@@ -11,3 +11,9 @@ Los gráficos asignados son:
 * Barra
 * Diagrama de Gantt
 
+### Chord Diagram
+
+Para acceder al recurso visual dar clic en el siguiente link
+
+[[https://github.com/NelsonSalinas1987/visualizaciondatos-pec2/blob/main/agua.JPG]]
+
